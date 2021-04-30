@@ -1,0 +1,10 @@
+D:\VB\Tıklama - yakalama  Oyunu\bin\Debug\Tıklama - yakalama  Oyunu.exe.config
+D:\VB\Tıklama - yakalama  Oyunu\bin\Debug\Tıklama - yakalama  Oyunu.exe
+D:\VB\Tıklama - yakalama  Oyunu\bin\Debug\Tıklama - yakalama  Oyunu.pdb
+D:\VB\Tıklama - yakalama  Oyunu\obj\Debug\Tıklama - yakalama  Oyunu.csprojAssemblyReference.cache
+D:\VB\Tıklama - yakalama  Oyunu\obj\Debug\Tıklama___yakalama__Oyunu.Form1.resources
+D:\VB\Tıklama - yakalama  Oyunu\obj\Debug\Tıklama___yakalama__Oyunu.Properties.Resources.resources
+D:\VB\Tıklama - yakalama  Oyunu\obj\Debug\Tıklama - yakalama  Oyunu.csproj.GenerateResource.cache
+D:\VB\Tıklama - yakalama  Oyunu\obj\Debug\Tıklama - yakalama  Oyunu.exe
+D:\VB\Tıklama - yakalama  Oyunu\obj\Debug\Tıklama - yakalama  Oyunu.pdb
+D:\VB\Tıklama - yakalama  Oyunu\obj\Debug\Tıklama - yakalama  Oyunu.csproj.CoreCompileInputs.cache
